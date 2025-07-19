@@ -56,10 +56,19 @@ These elements collectively showcase a more ambitious and fully-realized web app
 
 ## How to Run the Project
 
-1.  Clone the repository: `git clone https://github.com/me50/ipemw.git`
-2.  Navigate into the project directory: `cd ipemw/projects/2020/x/capstone` (Replace `x` with the actual folder name you used, e.g., `1` or `2`)
+1.  Clone the repository using Git:  
+    `git clone https://github.com/ipemw/cs50web-finall-project-capstone-pile.git`
+
+2.  Change into the project directory:  
+    `cd cs50web-finall-project-capstone-pile`
+
 3.  Install dependencies: `pip install -r requirements.txt`
+
 4.  Run database migrations: `python manage.py makemigrations` and `python manage.py migrate`
+
 5.  Create a superuser (for admin access): `python manage.py createsuperuser`
+
 6.  Run the development server: `python manage.py runserver`
+
 7.  Access the application at `http://127.0.0.1:8000/` in your browser.
+
