@@ -1,0 +1,51 @@
+{% extends "pileh/layout.html" %}
+{% load static %}
+
+{% block title %}Chat with {% if product %}{{ product.user.username }}{% endif %} about {% if product %}{{ product.title }}{% endif %}{% endblock %}
+
+{% block body %}
+    <div class="container mt-5">
+        <div class="chat-header-top d-flex justify-content-between align-items-center mb-3">
+            <h2 class="chat-product-title">Chat about "<a href="{% url 'product_detail' product_id=product.id %}" class="product-link">{{ product.title }}</a>"</h2>
+            {% if chat %}
+                <form action="{% url 'delete_chat' chat_id=chat.id %}" method="post" onsubmit="return confirm('Are you sure you want to delete this entire chat? This action cannot be undone and will remove the chat for both parties.');">
+                    {% csrf_token %}
+                    <button type="submit" class="btn btn-danger delete-chat-btn">
+                        <i class="fa fa-trash"></i> Delete
+                    </button>
+                </form>
+            {% endif %}
+        </div>
+        <div class="card chat-card">
+            <div class="card-body chat-box" id="chat-box">
+                {% for message in messages %}
+                    <div class="chat-message-container {% if message.sender == request.user %}current-user{% else %}other-user{% endif %}">
+                        <div class="chat-message {% if message.sender == request.user %}current-user-bubble{% else %}other-user-bubble{% endif %}">
+                            <p class="mb-0 chat-content">{{ message.content }}</p>
+                            <small class="text-muted chat-timestamp">{{ message.timestamp|date:"H:i" }}</small>
+                        </div>
+                    </div>
+                {% empty %}
+                    <p class="text-center text-muted">No messages yet. Start the conversation!</p>
+                {% endfor %}
+            </div>
+            <div class="card-footer chat-footer">
+                <form action="{% if chat_id_from_url is not None %}{% url 'chat_view' chat_id=chat_id_from_url %}{% else %}{% url 'chat_initiate_view' product_id=product.id seller_id=product.user.id buyer_id=request.user.id %}{% endif %}" method="post" class="input-group">
+                    {% csrf_token %}
+                    <input type="text" name="content" class="form-control" 
+                   autocomplete="off" placeholder="Type your message..." required>
+                    <div class="input-group-append">
+                        <button class="btn btn-primary" type="submit">Send</button>
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+    
+    <script>
+        document.addEventListener('DOMContentLoaded', function() {
+            const chatBox = document.getElementById('chat-box');
+            chatBox.scrollTop = chatBox.scrollHeight;
+        });
+    </script>
+{% endblock %}

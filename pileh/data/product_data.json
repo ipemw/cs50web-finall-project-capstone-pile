@@ -1,0 +1,3275 @@
+{
+    "brands": [
+        {
+            "name": "Apple",
+            "series": [
+                {
+                    "name": "iPhone Series",
+                    "models": [
+                        {
+                            "name": "iPhone 16 Pro Max",
+                            "years": [
+                                "2025"
+                            ],
+                            "storages": [
+                                "256GB",
+                                "512GB",
+                                "1TB"
+                            ],
+                            "sim_status": [
+                                "eSIM"
+                            ],
+                            "colors": [
+                                {
+                                    "name": "Titanium Black",
+                                    "hex": "#1f1f1f"
+                                },
+                                {
+                                    "name": "Titanium White",
+                                    "hex": "#e0e0e0"
+                                },
+                                {
+                                    "name": "Titanium Blue",
+                                    "hex": "#343c4a"
+                                },
+                                {
+                                    "name": "Titanium Natural",
+                                    "hex": "#c4a682"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "iPhone 16 Pro",
+                            "years": [
+                                "2025"
+                            ],
+                            "storages": [
+                                "256GB",
+                                "512GB",
+                                "1TB"
+                            ],
+                            "sim_status": [
+                                "eSIM"
+                            ],
+                            "colors": [
+                                {
+                                    "name": "Titanium Black",
+                                    "hex": "#1f1f1f"
+                                },
+                                {
+                                    "name": "Titanium White",
+                                    "hex": "#e0e0e0"
+                                },
+                                {
+                                    "name": "Titanium Blue",
+                                    "hex": "#343c4a"
+                                },
+                                {
+                                    "name": "Titanium Natural",
+                                    "hex": "#c4a682"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "iPhone 16 Plus",
+                            "years": [
+                                "2025"
+                            ],
+                            "storages": [
+                                "128GB",
+                                "256GB",
+                                "512GB"
+                            ],
+                            "sim_status": [
+                                "eSIM",
+                                "Dual SIM"
+                            ],
+                            "colors": [
+                                {
+                                    "name": "Midnight",
+                                    "hex": "#2c3e50"
+                                },
+                                {
+                                    "name": "Starlight",
+                                    "hex": "#f8f8f8"
+                                },
+                                {
+                                    "name": "Blue",
+                                    "hex": "#3498db"
+                                },
+                                {
+                                    "name": "Pink",
+                                    "hex": "#e74c8c"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "iPhone 16",
+                            "years": [
+                                "2025"
+                            ],
+                            "storages": [
+                                "128GB",
+                                "256GB",
+                                "512GB"
+                            ],
+                            "sim_status": [
+                                "eSIM",
+                                "Dual SIM"
+                            ],
+                            "colors": [
+                                {
+                                    "name": "Midnight",
+                                    "hex": "#2c3e50"
+                                },
+                                {
+                                    "name": "Starlight",
+                                    "hex": "#f8f8f8"
+                                },
+                                {
+                                    "name": "Blue",
+                                    "hex": "#3498db"
+                                },
+                                {
+                                    "name": "Pink",
+                                    "hex": "#e74c8c"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "iPhone 15 Pro Max",
+                            "years": [
+                                "2024"
+                            ],
+                            "storages": [
+                                "256GB",
+                                "512GB",
+                                "1TB"
+                            ],
+                            "sim_status": [
+                                "Single SIM",
+                                "Dual SIM",
+                                "eSIM"
+                            ],
+                            "colors": [
+                                {
+                                    "name": "Black",
+                                    "hex": "#000000"
+                                },
+                                {
+                                    "name": "White",
+                                    "hex": "#ffffff"
+                                },
+                                {
+                                    "name": "Blue",
+                                    "hex": "#2980b9"
+                                },
+                                {
+                                    "name": "Natural",
+                                    "hex": "#d3c3a5"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "iPhone 15 Pro",
+                            "years": [
+                                "2024"
+                            ],
+                            "storages": [
+                                "128GB",
+                                "256GB",
+                                "512GB",
+                                "1TB"
+                            ],
+                            "sim_status": [
+                                "Single SIM",
+                                "Dual SIM",
+                                "eSIM"
+                            ],
+                            "colors": [
+                                {
+                                    "name": "Black",
+                                    "hex": "#000000"
+                                },
+                                {
+                                    "name": "White",
+                                    "hex": "#ffffff"
+                                },
+                                {
+                                    "name": "Blue",
+                                    "hex": "#2980b9"
+                                },
+                                {
+                                    "name": "Natural",
+                                    "hex": "#d3c3a5"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "iPhone 15 Plus",
+                            "years": [
+                                "2024"
+                            ],
+                            "storages": [
+                                "128GB",
+                                "256GB",
+                                "512GB"
+                            ],
+                            "sim_status": [
+                                "Single SIM",
+                                "Dual SIM",
+                                "eSIM"
+                            ],
+                            "colors": [
+                                {
+                                    "name": "Black",
+                                    "hex": "#000000"
+                                },
+                                {
+                                    "name": "White",
+                                    "hex": "#ffffff"
+                                },
+                                {
+                                    "name": "Green",
+                                    "hex": "#27ae60"
+                                },
+                                {
+                                    "name": "Pink",
+                                    "hex": "#e74c8c"
+                                },
+                                {
+                                    "name": "Yellow",
+                                    "hex": "#f1c40f"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "iPhone 15",
+                            "years": [
+                                "2024"
+                            ],
+                            "storages": [
+                                "128GB",
+                                "256GB",
+                                "512GB"
+                            ],
+                            "sim_status": [
+                                "Single SIM",
+                                "Dual SIM",
+                                "eSIM"
+                            ],
+                            "colors": [
+                                {
+                                    "name": "Black",
+                                    "hex": "#000000"
+                                },
+                                {
+                                    "name": "White",
+                                    "hex": "#ffffff"
+                                },
+                                {
+                                    "name": "Green",
+                                    "hex": "#27ae60"
+                                },
+                                {
+                                    "name": "Pink",
+                                    "hex": "#e74c8c"
+                                },
+                                {
+                                    "name": "Yellow",
+                                    "hex": "#f1c40f"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "iPhone 14 Pro Max",
+                            "years": [
+                                "2022"
+                            ],
+                            "storages": [
+                                "128GB",
+                                "256GB",
+                                "512GB",
+                                "1TB"
+                            ],
+                            "sim_status": [
+                                "eSIM"
+                            ],
+                            "colors": [
+                                {
+                                    "name": "Space Black",
+                                    "hex": "#1c1c1e"
+                                },
+                                {
+                                    "name": "Silver",
+                                    "hex": "#c1c2c4"
+                                },
+                                {
+                                    "name": "Gold",
+                                    "hex": "#e0c98f"
+                                },
+                                {
+                                    "name": "Deep Purple",
+                                    "hex": "#5e5b8d"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "iPhone 14 Pro",
+                            "years": [
+                                "2022"
+                            ],
+                            "storages": [
+                                "128GB",
+                                "256GB",
+                                "512GB",
+                                "1TB"
+                            ],
+                            "sim_status": [
+                                "eSIM"
+                            ],
+                            "colors": [
+                                {
+                                    "name": "Space Black",
+                                    "hex": "#1c1c1e"
+                                },
+                                {
+                                    "name": "Silver",
+                                    "hex": "#c1c2c4"
+                                },
+                                {
+                                    "name": "Gold",
+                                    "hex": "#e0c98f"
+                                },
+                                {
+                                    "name": "Deep Purple",
+                                    "hex": "#5e5b8d"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "iPhone 14 Plus",
+                            "years": [
+                                "2022"
+                            ],
+                            "storages": [
+                                "128GB",
+                                "256GB",
+                                "512GB"
+                            ],
+                            "sim_status": [
+                                "Single SIM",
+                                "Dual SIM",
+                                "eSIM"
+                            ],
+                            "colors": [
+                                {
+                                    "name": "Midnight",
+                                    "hex": "#2c3e50"
+                                },
+                                {
+                                    "name": "Starlight",
+                                    "hex": "#f8f8f8"
+                                },
+                                {
+                                    "name": "Blue",
+                                    "hex": "#3498db"
+                                },
+                                {
+                                    "name": "Purple",
+                                    "hex": "#9b59b6"
+                                },
+                                {
+                                    "name": "Red",
+                                    "hex": "#e74c3c"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "iPhone 14",
+                            "years": [
+                                "2022"
+                            ],
+                            "storages": [
+                                "128GB",
+                                "256GB",
+                                "512GB"
+                            ],
+                            "sim_status": [
+                                "Single SIM",
+                                "Dual SIM",
+                                "eSIM"
+                            ],
+                            "colors": [
+                                {
+                                    "name": "Midnight",
+                                    "hex": "#2c3e50"
+                                },
+                                {
+                                    "name": "Starlight",
+                                    "hex": "#f8f8f8"
+                                },
+                                {
+                                    "name": "Blue",
+                                    "hex": "#3498db"
+                                },
+                                {
+                                    "name": "Purple",
+                                    "hex": "#9b59b6"
+                                },
+                                {
+                                    "name": "Red",
+                                    "hex": "#e74c3c"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "iPhone 13 Pro Max",
+                            "years": [
+                                "2021"
+                            ],
+                            "storages": [
+                                "128GB",
+                                "256GB",
+                                "512GB",
+                                "1TB"
+                            ],
+                            "sim_status": [
+                                "eSIM"
+                            ],
+                            "colors": [
+                                {
+                                    "name": "Graphite",
+                                    "hex": "#36383b"
+                                },
+                                {
+                                    "name": "Silver",
+                                    "hex": "#c1c2c4"
+                                },
+                                {
+                                    "name": "Gold",
+                                    "hex": "#e0c98f"
+                                },
+                                {
+                                    "name": "Sierra Blue",
+                                    "hex": "#5c798d"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "iPhone 13 Pro",
+                            "years": [
+                                "2021"
+                            ],
+                            "storages": [
+                                "128GB",
+                                "256GB",
+                                "512GB",
+                                "1TB"
+                            ],
+                            "sim_status": [
+                                "eSIM"
+                            ],
+                            "colors": [
+                                {
+                                    "name": "Graphite",
+                                    "hex": "#36383b"
+                                },
+                                {
+                                    "name": "Silver",
+                                    "hex": "#c1c2c4"
+                                },
+                                {
+                                    "name": "Gold",
+                                    "hex": "#e0c98f"
+                                },
+                                {
+                                    "name": "Sierra Blue",
+                                    "hex": "#5c798d"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "iPhone 13",
+                            "years": [
+                                "2021"
+                            ],
+                            "storages": [
+                                "128GB",
+                                "256GB",
+                                "512GB"
+                            ],
+                            "sim_status": [
+                                "Single SIM",
+                                "Dual SIM",
+                                "eSIM"
+                            ],
+                            "colors": [
+                                {
+                                    "name": "Starlight",
+                                    "hex": "#f8f8f8"
+                                },
+                                {
+                                    "name": "Midnight",
+                                    "hex": "#2c3e50"
+                                },
+                                {
+                                    "name": "Blue",
+                                    "hex": "#3498db"
+                                },
+                                {
+                                    "name": "Pink",
+                                    "hex": "#e74c8c"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "iPhone 12 Pro Max",
+                            "years": [
+                                "2020"
+                            ],
+                            "storages": [
+                                "128GB",
+                                "256GB",
+                                "512GB"
+                            ],
+                            "sim_status": [
+                                "eSIM"
+                            ],
+                            "colors": [
+                                {
+                                    "name": "Graphite",
+                                    "hex": "#36383b"
+                                },
+                                {
+                                    "name": "Silver",
+                                    "hex": "#c1c2c4"
+                                },
+                                {
+                                    "name": "Gold",
+                                    "hex": "#e0c98f"
+                                },
+                                {
+                                    "name": "Pacific Blue",
+                                    "hex": "#5c798d"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "iPhone 12 Pro",
+                            "years": [
+                                "2020"
+                            ],
+                            "storages": [
+                                "128GB",
+                                "256GB",
+                                "512GB"
+                            ],
+                            "sim_status": [
+                                "eSIM"
+                            ],
+                            "colors": [
+                                {
+                                    "name": "Graphite",
+                                    "hex": "#36383b"
+                                },
+                                {
+                                    "name": "Silver",
+                                    "hex": "#c1c2c4"
+                                },
+                                {
+                                    "name": "Gold",
+                                    "hex": "#e0c98f"
+                                },
+                                {
+                                    "name": "Pacific Blue",
+                                    "hex": "#5c798d"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "iPhone 12",
+                            "years": [
+                                "2020"
+                            ],
+                            "storages": [
+                                "64GB",
+                                "128GB",
+                                "256GB"
+                            ],
+                            "sim_status": [
+                                "Single SIM",
+                                "Dual SIM",
+                                "eSIM"
+                            ],
+                            "colors": [
+                                {
+                                    "name": "Black",
+                                    "hex": "#000000"
+                                },
+                                {
+                                    "name": "White",
+                                    "hex": "#ffffff"
+                                },
+                                {
+                                    "name": "Blue",
+                                    "hex": "#3498db"
+                                },
+                                {
+                                    "name": "Green",
+                                    "hex": "#27ae60"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "iPhone 11 Pro Max",
+                            "years": [
+                                "2019"
+                            ],
+                            "storages": [
+                                "64GB",
+                                "256GB",
+                                "512GB"
+                            ],
+                            "sim_status": [
+                                "Dual SIM"
+                            ],
+                            "colors": [
+                                {
+                                    "name": "Space Gray",
+                                    "hex": "#5e6167"
+                                },
+                                {
+                                    "name": "Silver",
+                                    "hex": "#c1c2c4"
+                                },
+                                {
+                                    "name": "Gold",
+                                    "hex": "#e0c98f"
+                                },
+                                {
+                                    "name": "Midnight Green",
+                                    "hex": "#3c4d44"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "iPhone 11 Pro",
+                            "years": [
+                                "2019"
+                            ],
+                            "storages": [
+                                "64GB",
+                                "256GB",
+                                "512GB"
+                            ],
+                            "sim_status": [
+                                "Dual SIM"
+                            ],
+                            "colors": [
+                                {
+                                    "name": "Space Gray",
+                                    "hex": "#5e6167"
+                                },
+                                {
+                                    "name": "Silver",
+                                    "hex": "#c1c2c4"
+                                },
+                                {
+                                    "name": "Gold",
+                                    "hex": "#e0c98f"
+                                },
+                                {
+                                    "name": "Midnight Green",
+                                    "hex": "#3c4d44"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "iPhone 11",
+                            "years": [
+                                "2019"
+                            ],
+                            "storages": [
+                                "64GB",
+                                "128GB",
+                                "256GB"
+                            ],
+                            "sim_status": [
+                                "Dual SIM"
+                            ],
+                            "colors": [
+                                {
+                                    "name": "Black",
+                                    "hex": "#000000"
+                                },
+                                {
+                                    "name": "White",
+                                    "hex": "#ffffff"
+                                },
+                                {
+                                    "name": "Green",
+                                    "hex": "#27ae60"
+                                },
+                                {
+                                    "name": "Yellow",
+                                    "hex": "#f1c40f"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "iPhone X",
+                            "years": [
+                                "2017"
+                            ],
+                            "storages": [
+                                "64GB",
+                                "256GB"
+                            ],
+                            "sim_status": [
+                                "Single SIM"
+                            ],
+                            "colors": [
+                                {
+                                    "name": "Space Gray",
+                                    "hex": "#5e6167"
+                                },
+                                {
+                                    "name": "Silver",
+                                    "hex": "#c1c2c4"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "iPhone XR",
+                            "years": [
+                                "2018"
+                            ],
+                            "storages": [
+                                "64GB",
+                                "128GB",
+                                "256GB"
+                            ],
+                            "sim_status": [
+                                "Dual SIM"
+                            ],
+                            "colors": [
+                                {
+                                    "name": "Black",
+                                    "hex": "#000000"
+                                },
+                                {
+                                    "name": "White",
+                                    "hex": "#ffffff"
+                                },
+                                {
+                                    "name": "Red",
+                                    "hex": "#e74c3c"
+                                },
+                                {
+                                    "name": "Yellow",
+                                    "hex": "#f1c40f"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "iPhone XS",
+                            "years": [
+                                "2018"
+                            ],
+                            "storages": [
+                                "64GB",
+                                "256GB",
+                                "512GB"
+                            ],
+                            "sim_status": [
+                                "Dual SIM"
+                            ],
+                            "colors": [
+                                {
+                                    "name": "Space Gray",
+                                    "hex": "#5e6167"
+                                },
+                                {
+                                    "name": "Silver",
+                                    "hex": "#c1c2c4"
+                                },
+                                {
+                                    "name": "Gold",
+                                    "hex": "#e0c98f"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "iPhone 8",
+                            "years": [
+                                "2017"
+                            ],
+                            "storages": [
+                                "64GB",
+                                "256GB"
+                            ],
+                            "sim_status": [
+                                "Single SIM"
+                            ],
+                            "colors": [
+                                {
+                                    "name": "Space Gray",
+                                    "hex": "#5e6167"
+                                },
+                                {
+                                    "name": "Silver",
+                                    "hex": "#c1c2c4"
+                                },
+                                {
+                                    "name": "Gold",
+                                    "hex": "#e0c98f"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "iPhone 7",
+                            "years": [
+                                "2016"
+                            ],
+                            "storages": [
+                                "32GB",
+                                "128GB",
+                                "256GB"
+                            ],
+                            "sim_status": [
+                                "Single SIM"
+                            ],
+                            "colors": [
+                                {
+                                    "name": "Black",
+                                    "hex": "#000000"
+                                },
+                                {
+                                    "name": "Jet Black",
+                                    "hex": "#1c1c1e"
+                                },
+                                {
+                                    "name": "Silver",
+                                    "hex": "#c1c2c4"
+                                },
+                                {
+                                    "name": "Gold",
+                                    "hex": "#e0c98f"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "iPhone 6s",
+                            "years": [
+                                "2015"
+                            ],
+                            "storages": [
+                                "16GB",
+                                "32GB",
+                                "64GB",
+                                "128GB"
+                            ],
+                            "sim_status": [
+                                "Single SIM"
+                            ],
+                            "colors": [
+                                {
+                                    "name": "Space Gray",
+                                    "hex": "#5e6167"
+                                },
+                                {
+                                    "name": "Silver",
+                                    "hex": "#c1c2c4"
+                                },
+                                {
+                                    "name": "Gold",
+                                    "hex": "#e0c98f"
+                                },
+                                {
+                                    "name": "Rose Gold",
+                                    "hex": "#f5c3c2"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "iPhone 6",
+                            "years": [
+                                "2014"
+                            ],
+                            "storages": [
+                                "16GB",
+                                "64GB",
+                                "128GB"
+                            ],
+                            "sim_status": [
+                                "Single SIM"
+                            ],
+                            "colors": [
+                                {
+                                    "name": "Space Gray",
+                                    "hex": "#5e6167"
+                                },
+                                {
+                                    "name": "Silver",
+                                    "hex": "#c1c2c4"
+                                },
+                                {
+                                    "name": "Gold",
+                                    "hex": "#e0c98f"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "iPhone SE (2020)",
+                            "years": [
+                                "2020"
+                            ],
+                            "storages": [
+                                "64GB",
+                                "128GB",
+                                "256GB"
+                            ],
+                            "sim_status": [
+                                "Single SIM",
+                                "eSIM"
+                            ],
+                            "colors": [
+                                {
+                                    "name": "Black",
+                                    "hex": "#000000"
+                                },
+                                {
+                                    "name": "White",
+                                    "hex": "#ffffff"
+                                },
+                                {
+                                    "name": "Red",
+                                    "hex": "#e74c3c"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "iPhone SE (2022)",
+                            "years": [
+                                "2022"
+                            ],
+                            "storages": [
+                                "64GB",
+                                "128GB",
+                                "256GB"
+                            ],
+                            "sim_status": [
+                                "Single SIM",
+                                "eSIM"
+                            ],
+                            "colors": [
+                                {
+                                    "name": "Midnight",
+                                    "hex": "#2c3e50"
+                                },
+                                {
+                                    "name": "Starlight",
+                                    "hex": "#f8f8f8"
+                                },
+                                {
+                                    "name": "Red",
+                                    "hex": "#e74c3c"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Samsung",
+            "series": [
+                {
+                    "name": "Galaxy S Series",
+                    "models": [
+                        {
+                            "name": "Galaxy S24 Ultra",
+                            "years": [
+                                "2024"
+                            ],
+                            "storages": [
+                                "256GB",
+                                "512GB",
+                                "1TB"
+                            ],
+                            "sim_status": [
+                                "Single SIM",
+                                "Dual SIM",
+                                "eSIM"
+                            ],
+                            "colors": [
+                                {
+                                    "name": "Titanium Black",
+                                    "hex": "#1e1e1e"
+                                },
+                                {
+                                    "name": "Titanium Gray",
+                                    "hex": "#a3a3a3"
+                                },
+                                {
+                                    "name": "Titanium Violet",
+                                    "hex": "#a399c5"
+                                },
+                                {
+                                    "name": "Titanium Yellow",
+                                    "hex": "#f3e1a0"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Galaxy S24",
+                            "years": [
+                                "2024"
+                            ],
+                            "storages": [
+                                "128GB",
+                                "256GB",
+                                "512GB"
+                            ],
+                            "sim_status": [
+                                "Single SIM",
+                                "Dual SIM",
+                                "eSIM"
+                            ],
+                            "colors": [
+                                {
+                                    "name": "Onyx Black",
+                                    "hex": "#1e1e1e"
+                                },
+                                {
+                                    "name": "Marble Gray",
+                                    "hex": "#a3a3a3"
+                                },
+                                {
+                                    "name": "Cobalt Violet",
+                                    "hex": "#a399c5"
+                                },
+                                {
+                                    "name": "Amber Yellow",
+                                    "hex": "#f3e1a0"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Galaxy S23 Ultra",
+                            "years": [
+                                "2023"
+                            ],
+                            "storages": [
+                                "256GB",
+                                "512GB",
+                                "1TB"
+                            ],
+                            "sim_status": [
+                                "Single SIM",
+                                "Dual SIM",
+                                "eSIM"
+                            ],
+                            "colors": [
+                                {
+                                    "name": "Phantom Black",
+                                    "hex": "#1c1c1e"
+                                },
+                                {
+                                    "name": "Cream",
+                                    "hex": "#f0f0f0"
+                                },
+                                {
+                                    "name": "Lavender",
+                                    "hex": "#e6e6fa"
+                                },
+                                {
+                                    "name": "Green",
+                                    "hex": "#2ecc71"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Galaxy S23",
+                            "years": [
+                                "2023"
+                            ],
+                            "storages": [
+                                "128GB",
+                                "256GB"
+                            ],
+                            "sim_status": [
+                                "Single SIM",
+                                "Dual SIM",
+                                "eSIM"
+                            ],
+                            "colors": [
+                                {
+                                    "name": "Phantom Black",
+                                    "hex": "#1c1c1e"
+                                },
+                                {
+                                    "name": "Cream",
+                                    "hex": "#f0f0f0"
+                                },
+                                {
+                                    "name": "Lavender",
+                                    "hex": "#e6e6fa"
+                                },
+                                {
+                                    "name": "Green",
+                                    "hex": "#2ecc71"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Galaxy S22",
+                            "years": [
+                                "2022"
+                            ],
+                            "storages": [
+                                "128GB",
+                                "256GB",
+                                "512GB"
+                            ],
+                            "sim_status": [
+                                "Single SIM",
+                                "Dual SIM",
+                                "eSIM"
+                            ],
+                            "colors": [
+                                {
+                                    "name": "Phantom Black",
+                                    "hex": "#1c1c1e"
+                                },
+                                {
+                                    "name": "White",
+                                    "hex": "#ffffff"
+                                },
+                                {
+                                    "name": "Pink Gold",
+                                    "hex": "#e8c9b9"
+                                },
+                                {
+                                    "name": "Green",
+                                    "hex": "#2ecc71"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Galaxy S21",
+                            "years": [
+                                "2021"
+                            ],
+                            "storages": [
+                                "128GB",
+                                "256GB"
+                            ],
+                            "sim_status": [
+                                "Dual SIM"
+                            ],
+                            "colors": [
+                                {
+                                    "name": "Phantom Gray",
+                                    "hex": "#9c9c9c"
+                                },
+                                {
+                                    "name": "Phantom White",
+                                    "hex": "#f0f0f0"
+                                },
+                                {
+                                    "name": "Phantom Violet",
+                                    "hex": "#9b59b6"
+                                },
+                                {
+                                    "name": "Phantom Pink",
+                                    "hex": "#ffb6c1"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Galaxy S20",
+                            "years": [
+                                "2020"
+                            ],
+                            "storages": [
+                                "128GB"
+                            ],
+                            "sim_status": [
+                                "Dual SIM"
+                            ],
+                            "colors": [
+                                {
+                                    "name": "Cosmic Gray",
+                                    "hex": "#a3a3a3"
+                                },
+                                {
+                                    "name": "Cloud Blue",
+                                    "hex": "#5dade2"
+                                },
+                                {
+                                    "name": "Cloud Pink",
+                                    "hex": "#f0c4cf"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Galaxy S10",
+                            "years": [
+                                "2019"
+                            ],
+                            "storages": [
+                                "128GB",
+                                "512GB",
+                                "1TB"
+                            ],
+                            "sim_status": [
+                                "Dual SIM"
+                            ],
+                            "colors": [
+                                {
+                                    "name": "Prism Black",
+                                    "hex": "#1c1c1e"
+                                },
+                                {
+                                    "name": "Prism White",
+                                    "hex": "#f0f0f0"
+                                },
+                                {
+                                    "name": "Prism Green",
+                                    "hex": "#2ecc71"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Galaxy S9",
+                            "years": [
+                                "2018"
+                            ],
+                            "storages": [
+                                "64GB",
+                                "128GB",
+                                "256GB"
+                            ],
+                            "sim_status": [
+                                "Dual SIM"
+                            ],
+                            "colors": [
+                                {
+                                    "name": "Midnight Black",
+                                    "hex": "#1c1c1e"
+                                },
+                                {
+                                    "name": "Coral Blue",
+                                    "hex": "#5dade2"
+                                },
+                                {
+                                    "name": "Lilac Purple",
+                                    "hex": "#9b59b6"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Galaxy S8",
+                            "years": [
+                                "2017"
+                            ],
+                            "storages": [
+                                "64GB",
+                                "128GB"
+                            ],
+                            "sim_status": [
+                                "Dual SIM"
+                            ],
+                            "colors": [
+                                {
+                                    "name": "Midnight Black",
+                                    "hex": "#1c1c1e"
+                                },
+                                {
+                                    "name": "Orchid Gray",
+                                    "hex": "#a3a3a3"
+                                },
+                                {
+                                    "name": "Coral Blue",
+                                    "hex": "#5dade2"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Galaxy S7",
+                            "years": [
+                                "2016"
+                            ],
+                            "storages": [
+                                "32GB",
+                                "64GB"
+                            ],
+                            "sim_status": [
+                                "Single SIM"
+                            ],
+                            "colors": [
+                                {
+                                    "name": "Black Onyx",
+                                    "hex": "#1c1c1e"
+                                },
+                                {
+                                    "name": "Silver Titanium",
+                                    "hex": "#c0c0c0"
+                                },
+                                {
+                                    "name": "Gold Platinum",
+                                    "hex": "#ffd700"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Galaxy S6",
+                            "years": [
+                                "2015"
+                            ],
+                            "storages": [
+                                "32GB",
+                                "64GB",
+                                "128GB"
+                            ],
+                            "sim_status": [
+                                "Single SIM"
+                            ],
+                            "colors": [
+                                {
+                                    "name": "Black Sapphire",
+                                    "hex": "#1c1c1e"
+                                },
+                                {
+                                    "name": "White Pearl",
+                                    "hex": "#f0f0f0"
+                                },
+                                {
+                                    "name": "Gold Platinum",
+                                    "hex": "#ffd700"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Galaxy A Series",
+                    "models": [
+                        {
+                            "name": "Galaxy A55",
+                            "years": [
+                                "2024"
+                            ],
+                            "storages": [
+                                "128GB",
+                                "256GB"
+                            ],
+                            "sim_status": [
+                                "Dual SIM"
+                            ],
+                            "colors": [
+                                {
+                                    "name": "Awesome Lilac",
+                                    "hex": "#c4a5d8"
+                                },
+                                {
+                                    "name": "Awesome Iceblue",
+                                    "hex": "#a0e0ff"
+                                },
+                                {
+                                    "name": "Awesome Navy",
+                                    "hex": "#1c1c2e"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Galaxy A35",
+                            "years": [
+                                "2024"
+                            ],
+                            "storages": [
+                                "128GB",
+                                "256GB"
+                            ],
+                            "sim_status": [
+                                "Dual SIM"
+                            ],
+                            "colors": [
+                                {
+                                    "name": "Awesome Lilac",
+                                    "hex": "#c4a5d8"
+                                },
+                                {
+                                    "name": "Awesome Iceblue",
+                                    "hex": "#a0e0ff"
+                                },
+                                {
+                                    "name": "Awesome Navy",
+                                    "hex": "#1c1c2e"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Galaxy A15",
+                            "years": [
+                                "2024"
+                            ],
+                            "storages": [
+                                "128GB",
+                                "256GB"
+                            ],
+                            "sim_status": [
+                                "Dual SIM"
+                            ],
+                            "colors": [
+                                {
+                                    "name": "Black",
+                                    "hex": "#000000"
+                                },
+                                {
+                                    "name": "Yellow",
+                                    "hex": "#f1c40f"
+                                },
+                                {
+                                    "name": "Light Blue",
+                                    "hex": "#add8e6"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Galaxy A54",
+                            "years": [
+                                "2023"
+                            ],
+                            "storages": [
+                                "128GB",
+                                "256GB"
+                            ],
+                            "sim_status": [
+                                "Dual SIM"
+                            ],
+                            "colors": [
+                                {
+                                    "name": "Awesome Black",
+                                    "hex": "#1c1c1e"
+                                },
+                                {
+                                    "name": "Awesome White",
+                                    "hex": "#ffffff"
+                                },
+                                {
+                                    "name": "Awesome Lime",
+                                    "hex": "#a2f267"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Galaxy A34",
+                            "years": [
+                                "2023"
+                            ],
+                            "storages": [
+                                "128GB",
+                                "256GB"
+                            ],
+                            "sim_status": [
+                                "Dual SIM"
+                            ],
+                            "colors": [
+                                {
+                                    "name": "Awesome Graphite",
+                                    "hex": "#2c2c2c"
+                                },
+                                {
+                                    "name": "Awesome Silver",
+                                    "hex": "#c0c0c0"
+                                },
+                                {
+                                    "name": "Awesome Violet",
+                                    "hex": "#a399c5"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Galaxy A24",
+                            "years": [
+                                "2023"
+                            ],
+                            "storages": [
+                                "128GB",
+                                "256GB"
+                            ],
+                            "sim_status": [
+                                "Dual SIM"
+                            ],
+                            "colors": [
+                                {
+                                    "name": "Black",
+                                    "hex": "#000000"
+                                },
+                                {
+                                    "name": "Silver",
+                                    "hex": "#c0c0c0"
+                                },
+                                {
+                                    "name": "Burgundy",
+                                    "hex": "#800020"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Galaxy A53",
+                            "years": [
+                                "2022"
+                            ],
+                            "storages": [
+                                "128GB",
+                                "256GB"
+                            ],
+                            "sim_status": [
+                                "Dual SIM"
+                            ],
+                            "colors": [
+                                {
+                                    "name": "Awesome Black",
+                                    "hex": "#1c1c1e"
+                                },
+                                {
+                                    "name": "Awesome White",
+                                    "hex": "#ffffff"
+                                },
+                                {
+                                    "name": "Awesome Peach",
+                                    "hex": "#ffcda3"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Galaxy A21",
+                            "years": [
+                                "2020"
+                            ],
+                            "storages": [
+                                "32GB",
+                                "64GB"
+                            ],
+                            "sim_status": [
+                                "Dual SIM"
+                            ],
+                            "colors": [
+                                {
+                                    "name": "Black",
+                                    "hex": "#000000"
+                                },
+                                {
+                                    "name": "White",
+                                    "hex": "#ffffff"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Galaxy A70",
+                            "years": [
+                                "2019"
+                            ],
+                            "storages": [
+                                "128GB"
+                            ],
+                            "sim_status": [
+                                "Dual SIM"
+                            ],
+                            "colors": [
+                                {
+                                    "name": "Black",
+                                    "hex": "#000000"
+                                },
+                                {
+                                    "name": "Blue",
+                                    "hex": "#2980b9"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Galaxy A50",
+                            "years": [
+                                "2019"
+                            ],
+                            "storages": [
+                                "64GB",
+                                "128GB"
+                            ],
+                            "sim_status": [
+                                "Dual SIM"
+                            ],
+                            "colors": [
+                                {
+                                    "name": "Black",
+                                    "hex": "#000000"
+                                },
+                                {
+                                    "name": "White",
+                                    "hex": "#ffffff"
+                                },
+                                {
+                                    "name": "Blue",
+                                    "hex": "#2980b9"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Galaxy A30",
+                            "years": [
+                                "2019"
+                            ],
+                            "storages": [
+                                "32GB",
+                                "64GB"
+                            ],
+                            "sim_status": [
+                                "Dual SIM"
+                            ],
+                            "colors": [
+                                {
+                                    "name": "Black",
+                                    "hex": "#000000"
+                                },
+                                {
+                                    "name": "White",
+                                    "hex": "#ffffff"
+                                },
+                                {
+                                    "name": "Red",
+                                    "hex": "#e74c3c"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Galaxy A8",
+                            "years": [
+                                "2018"
+                            ],
+                            "storages": [
+                                "32GB",
+                                "64GB"
+                            ],
+                            "sim_status": [
+                                "Dual SIM"
+                            ],
+                            "colors": [
+                                {
+                                    "name": "Black",
+                                    "hex": "#000000"
+                                },
+                                {
+                                    "name": "Orchid Gray",
+                                    "hex": "#999999"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Galaxy A5",
+                            "years": [
+                                "2017"
+                            ],
+                            "storages": [
+                                "32GB"
+                            ],
+                            "sim_status": [
+                                "Dual SIM"
+                            ],
+                            "colors": [
+                                {
+                                    "name": "Black Sky",
+                                    "hex": "#1c1c1e"
+                                },
+                                {
+                                    "name": "Gold Sand",
+                                    "hex": "#ffd700"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Galaxy A3",
+                            "years": [
+                                "2016"
+                            ],
+                            "storages": [
+                                "16GB"
+                            ],
+                            "sim_status": [
+                                "Dual SIM"
+                            ],
+                            "colors": [
+                                {
+                                    "name": "Black",
+                                    "hex": "#000000"
+                                },
+                                {
+                                    "name": "White",
+                                    "hex": "#ffffff"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Galaxy A8",
+                            "years": [
+                                "2015"
+                            ],
+                            "storages": [
+                                "32GB"
+                            ],
+                            "sim_status": [
+                                "Dual SIM"
+                            ],
+                            "colors": [
+                                {
+                                    "name": "Pearl White",
+                                    "hex": "#f0f0f0"
+                                },
+                                {
+                                    "name": "Midnight Black",
+                                    "hex": "#1c1c1e"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Galaxy Z Series",
+                    "models": [
+                        {
+                            "name": "Galaxy Z Fold 5",
+                            "years": [
+                                "2023"
+                            ],
+                            "storages": [
+                                "256GB",
+                                "512GB",
+                                "1TB"
+                            ],
+                            "sim_status": [
+                                "Dual SIM",
+                                "eSIM"
+                            ],
+                            "colors": [
+                                {
+                                    "name": "Phantom Black",
+                                    "hex": "#1c1c1e"
+                                },
+                                {
+                                    "name": "Icy Blue",
+                                    "hex": "#a0e0ff"
+                                },
+                                {
+                                    "name": "Cream",
+                                    "hex": "#f0f0f0"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Galaxy Z Flip 5",
+                            "years": [
+                                "2023"
+                            ],
+                            "storages": [
+                                "256GB",
+                                "512GB"
+                            ],
+                            "sim_status": [
+                                "Dual SIM",
+                                "eSIM"
+                            ],
+                            "colors": [
+                                {
+                                    "name": "Graphite",
+                                    "hex": "#36383b"
+                                },
+                                {
+                                    "name": "Cream",
+                                    "hex": "#f0f0f0"
+                                },
+                                {
+                                    "name": "Lavender",
+                                    "hex": "#e6e6fa"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Galaxy Z Fold 4",
+                            "years": [
+                                "2022"
+                            ],
+                            "storages": [
+                                "256GB",
+                                "512GB",
+                                "1TB"
+                            ],
+                            "sim_status": [
+                                "Dual SIM",
+                                "eSIM"
+                            ],
+                            "colors": [
+                                {
+                                    "name": "Phantom Black",
+                                    "hex": "#1c1c1e"
+                                },
+                                {
+                                    "name": "Graygreen",
+                                    "hex": "#3e4a4e"
+                                },
+                                {
+                                    "name": "Beige",
+                                    "hex": "#f5f5dc"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Galaxy Z Flip 4",
+                            "years": [
+                                "2022"
+                            ],
+                            "storages": [
+                                "128GB",
+                                "256GB",
+                                "512GB"
+                            ],
+                            "sim_status": [
+                                "Dual SIM",
+                                "eSIM"
+                            ],
+                            "colors": [
+                                {
+                                    "name": "Graphite",
+                                    "hex": "#36383b"
+                                },
+                                {
+                                    "name": "Pink Gold",
+                                    "hex": "#e8c9b9"
+                                },
+                                {
+                                    "name": "Bora Purple",
+                                    "hex": "#5e5b8d"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Galaxy Note Series",
+                    "models": [
+                        {
+                            "name": "Galaxy Note 20",
+                            "years": [
+                                "2020"
+                            ],
+                            "storages": [
+                                "128GB",
+                                "256GB",
+                                "512GB"
+                            ],
+                            "sim_status": [
+                                "Dual SIM",
+                                "eSIM"
+                            ],
+                            "colors": [
+                                {
+                                    "name": "Mystic Bronze",
+                                    "hex": "#b56c4d"
+                                },
+                                {
+                                    "name": "Mystic Gray",
+                                    "hex": "#888c8c"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Galaxy Note 10",
+                            "years": [
+                                "2019"
+                            ],
+                            "storages": [
+                                "256GB",
+                                "512GB"
+                            ],
+                            "sim_status": [
+                                "Dual SIM",
+                                "eSIM"
+                            ],
+                            "colors": [
+                                {
+                                    "name": "Aura Glow",
+                                    "hex": "#a68c92"
+                                },
+                                {
+                                    "name": "Aura Black",
+                                    "hex": "#1c1c1e"
+                                },
+                                {
+                                    "name": "Aura Pink",
+                                    "hex": "#ffb6c1"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Galaxy Note 9",
+                            "years": [
+                                "2018"
+                            ],
+                            "storages": [
+                                "128GB",
+                                "512GB"
+                            ],
+                            "sim_status": [
+                                "Dual SIM"
+                            ],
+                            "colors": [
+                                {
+                                    "name": "Ocean Blue",
+                                    "hex": "#2980b9"
+                                },
+                                {
+                                    "name": "Lavender Purple",
+                                    "hex": "#a399c5"
+                                },
+                                {
+                                    "name": "Metallic Copper",
+                                    "hex": "#b56c4d"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Xiaomi",
+            "series": [
+                {
+                    "name": "Xiaomi Series",
+                    "models": [
+                        {
+                            "name": "Xiaomi 14",
+                            "years": [
+                                "2023"
+                            ],
+                            "storages": [
+                                "256GB",
+                                "512GB",
+                                "1TB"
+                            ],
+                            "sim_status": [
+                                "Dual SIM"
+                            ],
+                            "colors": [
+                                {
+                                    "name": "Black",
+                                    "hex": "#000000"
+                                },
+                                {
+                                    "name": "White",
+                                    "hex": "#ffffff"
+                                },
+                                {
+                                    "name": "Green",
+                                    "hex": "#27ae60"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Xiaomi 13",
+                            "years": [
+                                "2022"
+                            ],
+                            "storages": [
+                                "128GB",
+                                "256GB",
+                                "512GB"
+                            ],
+                            "sim_status": [
+                                "Dual SIM"
+                            ],
+                            "colors": [
+                                {
+                                    "name": "Black",
+                                    "hex": "#000000"
+                                },
+                                {
+                                    "name": "White",
+                                    "hex": "#ffffff"
+                                },
+                                {
+                                    "name": "Blue",
+                                    "hex": "#2980b9"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Xiaomi 12",
+                            "years": [
+                                "2021"
+                            ],
+                            "storages": [
+                                "128GB",
+                                "256GB"
+                            ],
+                            "sim_status": [
+                                "Dual SIM"
+                            ],
+                            "colors": [
+                                {
+                                    "name": "Gray",
+                                    "hex": "#808080"
+                                },
+                                {
+                                    "name": "Blue",
+                                    "hex": "#2980b9"
+                                },
+                                {
+                                    "name": "Purple",
+                                    "hex": "#9b59b6"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Xiaomi 11",
+                            "years": [
+                                "2020"
+                            ],
+                            "storages": [
+                                "64GB",
+                                "128GB",
+                                "256GB"
+                            ],
+                            "sim_status": [
+                                "Dual SIM"
+                            ],
+                            "colors": [
+                                {
+                                    "name": "Midnight Gray",
+                                    "hex": "#2c2c2c"
+                                },
+                                {
+                                    "name": "Frost White",
+                                    "hex": "#f8f8f8"
+                                },
+                                {
+                                    "name": "Horizon Blue",
+                                    "hex": "#2980b9"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Redmi Series",
+                    "models": [
+                        {
+                            "name": "Redmi Note 13",
+                            "years": [
+                                "2023"
+                            ],
+                            "storages": [
+                                "128GB",
+                                "256GB"
+                            ],
+                            "sim_status": [
+                                "Dual SIM"
+                            ],
+                            "colors": [
+                                {
+                                    "name": "Midnight Black",
+                                    "hex": "#1c1c1e"
+                                },
+                                {
+                                    "name": "Ice Blue",
+                                    "hex": "#a0e0ff"
+                                },
+                                {
+                                    "name": "Ocean Sunset",
+                                    "hex": "#ff8c7a"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Redmi Note 12",
+                            "years": [
+                                "2022"
+                            ],
+                            "storages": [
+                                "64GB",
+                                "128GB",
+                                "256GB"
+                            ],
+                            "sim_status": [
+                                "Dual SIM"
+                            ],
+                            "colors": [
+                                {
+                                    "name": "Onyx Gray",
+                                    "hex": "#5e5e5e"
+                                },
+                                {
+                                    "name": "Forest Green",
+                                    "hex": "#2e8b57"
+                                },
+                                {
+                                    "name": "Ice Blue",
+                                    "hex": "#a0e0ff"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Redmi Note 11",
+                            "years": [
+                                "2021"
+                            ],
+                            "storages": [
+                                "64GB",
+                                "128GB",
+                                "256GB"
+                            ],
+                            "sim_status": [
+                                "Dual SIM"
+                            ],
+                            "colors": [
+                                {
+                                    "name": "Graphite Gray",
+                                    "hex": "#36383b"
+                                },
+                                {
+                                    "name": "Twilight Blue",
+                                    "hex": "#1c2e4a"
+                                },
+                                {
+                                    "name": "Star Blue",
+                                    "hex": "#2980b9"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Redmi Note 10",
+                            "years": [
+                                "2020"
+                            ],
+                            "storages": [
+                                "64GB",
+                                "128GB"
+                            ],
+                            "sim_status": [
+                                "Dual SIM"
+                            ],
+                            "colors": [
+                                {
+                                    "name": "Onyx Gray",
+                                    "hex": "#5e5e5e"
+                                },
+                                {
+                                    "name": "Pebble White",
+                                    "hex": "#f8f8f8"
+                                },
+                                {
+                                    "name": "Aqua Green",
+                                    "hex": "#40e0d0"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Redmi Note 9",
+                            "years": [
+                                "2020"
+                            ],
+                            "storages": [
+                                "32GB",
+                                "64GB",
+                                "128GB"
+                            ],
+                            "sim_status": [
+                                "Dual SIM"
+                            ],
+                            "colors": [
+                                {
+                                    "name": "Midnight Gray",
+                                    "hex": "#2c2c2c"
+                                },
+                                {
+                                    "name": "Forest Green",
+                                    "hex": "#2e8b57"
+                                },
+                                {
+                                    "name": "Polar White",
+                                    "hex": "#f8f8f8"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Redmi 9",
+                            "years": [
+                                "2020"
+                            ],
+                            "storages": [
+                                "32GB",
+                                "64GB",
+                                "128GB"
+                            ],
+                            "sim_status": [
+                                "Dual SIM"
+                            ],
+                            "colors": [
+                                {
+                                    "name": "Carbon Gray",
+                                    "hex": "#36383b"
+                                },
+                                {
+                                    "name": "Sunset Purple",
+                                    "hex": "#9b59b6"
+                                },
+                                {
+                                    "name": "Ocean Green",
+                                    "hex": "#2ecc71"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Poco Series",
+                    "models": [
+                        {
+                            "name": "Poco X6",
+                            "years": [
+                                "2024"
+                            ],
+                            "storages": [
+                                "256GB",
+                                "512GB"
+                            ],
+                            "sim_status": [
+                                "Dual SIM"
+                            ],
+                            "colors": [
+                                {
+                                    "name": "Black",
+                                    "hex": "#000000"
+                                },
+                                {
+                                    "name": "White",
+                                    "hex": "#ffffff"
+                                },
+                                {
+                                    "name": "Blue",
+                                    "hex": "#2980b9"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Poco F5",
+                            "years": [
+                                "2023"
+                            ],
+                            "storages": [
+                                "256GB"
+                            ],
+                            "sim_status": [
+                                "Dual SIM"
+                            ],
+                            "colors": [
+                                {
+                                    "name": "Black",
+                                    "hex": "#000000"
+                                },
+                                {
+                                    "name": "White",
+                                    "hex": "#ffffff"
+                                },
+                                {
+                                    "name": "Blue",
+                                    "hex": "#2980b9"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Poco X5",
+                            "years": [
+                                "2023"
+                            ],
+                            "storages": [
+                                "128GB",
+                                "256GB"
+                            ],
+                            "sim_status": [
+                                "Dual SIM"
+                            ],
+                            "colors": [
+                                {
+                                    "name": "Black",
+                                    "hex": "#000000"
+                                },
+                                {
+                                    "name": "Green",
+                                    "hex": "#27ae60"
+                                },
+                                {
+                                    "name": "Blue",
+                                    "hex": "#2980b9"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Poco X3",
+                            "years": [
+                                "2020"
+                            ],
+                            "storages": [
+                                "64GB",
+                                "128GB"
+                            ],
+                            "sim_status": [
+                                "Dual SIM"
+                            ],
+                            "colors": [
+                                {
+                                    "name": "Shadow Gray",
+                                    "hex": "#a3a3a3"
+                                },
+                                {
+                                    "name": "Cobalt Blue",
+                                    "hex": "#2980b9"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Huawei",
+            "series": [
+                {
+                    "name": "P Series",
+                    "models": [
+                        {
+                            "name": "P60",
+                            "years": [
+                                "2023"
+                            ],
+                            "storages": [
+                                "256GB",
+                                "512GB"
+                            ],
+                            "sim_status": [
+                                "Dual SIM"
+                            ],
+                            "colors": [
+                                {
+                                    "name": "Black",
+                                    "hex": "#000000"
+                                },
+                                {
+                                    "name": "Green",
+                                    "hex": "#27ae60"
+                                },
+                                {
+                                    "name": "White",
+                                    "hex": "#ffffff"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "P50",
+                            "years": [
+                                "2021"
+                            ],
+                            "storages": [
+                                "128GB",
+                                "256GB",
+                                "512GB"
+                            ],
+                            "sim_status": [
+                                "Dual SIM"
+                            ],
+                            "colors": [
+                                {
+                                    "name": "Golden Black",
+                                    "hex": "#2d2d2d"
+                                },
+                                {
+                                    "name": "Cocoa Gold",
+                                    "hex": "#b56c4d"
+                                },
+                                {
+                                    "name": "Pearl White",
+                                    "hex": "#f0f0f0"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "P40",
+                            "years": [
+                                "2020"
+                            ],
+                            "storages": [
+                                "128GB",
+                                "256GB"
+                            ],
+                            "sim_status": [
+                                "Dual SIM"
+                            ],
+                            "colors": [
+                                {
+                                    "name": "Black",
+                                    "hex": "#000000"
+                                },
+                                {
+                                    "name": "White",
+                                    "hex": "#ffffff"
+                                },
+                                {
+                                    "name": "Blush Gold",
+                                    "hex": "#e0c98f"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "P30",
+                            "years": [
+                                "2019"
+                            ],
+                            "storages": [
+                                "64GB",
+                                "128GB",
+                                "256GB"
+                            ],
+                            "sim_status": [
+                                "Dual SIM"
+                            ],
+                            "colors": [
+                                {
+                                    "name": "Black",
+                                    "hex": "#000000"
+                                },
+                                {
+                                    "name": "Aurora",
+                                    "hex": "#004953"
+                                },
+                                {
+                                    "name": "Breathing Crystal",
+                                    "hex": "#d4e0f0"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Mate Series",
+                    "models": [
+                        {
+                            "name": "Mate 60",
+                            "years": [
+                                "2023"
+                            ],
+                            "storages": [
+                                "256GB",
+                                "512GB",
+                                "1TB"
+                            ],
+                            "sim_status": [
+                                "Dual SIM"
+                            ],
+                            "colors": [
+                                {
+                                    "name": "Black",
+                                    "hex": "#000000"
+                                },
+                                {
+                                    "name": "Green",
+                                    "hex": "#27ae60"
+                                },
+                                {
+                                    "name": "White",
+                                    "hex": "#ffffff"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Mate 50",
+                            "years": [
+                                "2022"
+                            ],
+                            "storages": [
+                                "128GB",
+                                "256GB",
+                                "512GB"
+                            ],
+                            "sim_status": [
+                                "Dual SIM"
+                            ],
+                            "colors": [
+                                {
+                                    "name": "Black",
+                                    "hex": "#000000"
+                                },
+                                {
+                                    "name": "White",
+                                    "hex": "#ffffff"
+                                },
+                                {
+                                    "name": "Silver",
+                                    "hex": "#c0c0c0"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Mate 40",
+                            "years": [
+                                "2020"
+                            ],
+                            "storages": [
+                                "128GB",
+                                "256GB",
+                                "512GB"
+                            ],
+                            "sim_status": [
+                                "Dual SIM"
+                            ],
+                            "colors": [
+                                {
+                                    "name": "Black",
+                                    "hex": "#000000"
+                                },
+                                {
+                                    "name": "White",
+                                    "hex": "#ffffff"
+                                },
+                                {
+                                    "name": "Silver",
+                                    "hex": "#c0c0c0"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Nova Series",
+                    "models": [
+                        {
+                            "name": "Nova 11",
+                            "years": [
+                                "2023"
+                            ],
+                            "storages": [
+                                "256GB",
+                                "512GB"
+                            ],
+                            "sim_status": [
+                                "Dual SIM"
+                            ],
+                            "colors": [
+                                {
+                                    "name": "Black",
+                                    "hex": "#000000"
+                                },
+                                {
+                                    "name": "Green",
+                                    "hex": "#27ae60"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Nova 10",
+                            "years": [
+                                "2022"
+                            ],
+                            "storages": [
+                                "128GB",
+                                "256GB"
+                            ],
+                            "sim_status": [
+                                "Dual SIM"
+                            ],
+                            "colors": [
+                                {
+                                    "name": "Black",
+                                    "hex": "#000000"
+                                },
+                                {
+                                    "name": "Silver",
+                                    "hex": "#c0c0c0"
+                                },
+                                {
+                                    "name": "Green",
+                                    "hex": "#27ae60"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Nokia",
+            "series": [
+                {
+                    "name": "G Series",
+                    "models": [
+                        {
+                            "name": "G42",
+                            "years": [
+                                "2023"
+                            ],
+                            "storages": [
+                                "128GB",
+                                "256GB"
+                            ],
+                            "sim_status": [
+                                "Dual SIM"
+                            ],
+                            "colors": [
+                                {
+                                    "name": "So Pink",
+                                    "hex": "#e74c8c"
+                                },
+                                {
+                                    "name": "So Gray",
+                                    "hex": "#a3a3a3"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "G21",
+                            "years": [
+                                "2022"
+                            ],
+                            "storages": [
+                                "64GB",
+                                "128GB"
+                            ],
+                            "sim_status": [
+                                "Dual SIM"
+                            ],
+                            "colors": [
+                                {
+                                    "name": "Nordic Blue",
+                                    "hex": "#2980b9"
+                                },
+                                {
+                                    "name": "Dusk",
+                                    "hex": "#665a5a"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "X Series",
+                    "models": [
+                        {
+                            "name": "X21",
+                            "years": [
+                                "2023"
+                            ],
+                            "storages": [
+                                "128GB",
+                                "256GB"
+                            ],
+                            "sim_status": [
+                                "Dual SIM"
+                            ],
+                            "colors": [
+                                {
+                                    "name": "Nordic Blue",
+                                    "hex": "#2980b9"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "X20",
+                            "years": [
+                                "2021"
+                            ],
+                            "storages": [
+                                "64GB",
+                                "128GB"
+                            ],
+                            "sim_status": [
+                                "Dual SIM"
+                            ],
+                            "colors": [
+                                {
+                                    "name": "Midnight Sun",
+                                    "hex": "#e74c3c"
+                                },
+                                {
+                                    "name": "Nordic Blue",
+                                    "hex": "#2980b9"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Realme",
+            "series": [
+                {
+                    "name": "Realme Series",
+                    "models": [
+                        {
+                            "name": "Realme 12",
+                            "years": [
+                                "2024"
+                            ],
+                            "storages": [
+                                "128GB",
+                                "256GB"
+                            ],
+                            "sim_status": [
+                                "Dual SIM"
+                            ],
+                            "colors": [
+                                {
+                                    "name": "Navigator Beige",
+                                    "hex": "#f5f5dc"
+                                },
+                                {
+                                    "name": "Submarine Blue",
+                                    "hex": "#1c2e4a"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Realme 11",
+                            "years": [
+                                "2023"
+                            ],
+                            "storages": [
+                                "128GB",
+                                "256GB"
+                            ],
+                            "sim_status": [
+                                "Dual SIM"
+                            ],
+                            "colors": [
+                                {
+                                    "name": "Black",
+                                    "hex": "#000000"
+                                },
+                                {
+                                    "name": "Gold",
+                                    "hex": "#ffd700"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Realme 10",
+                            "years": [
+                                "2022"
+                            ],
+                            "storages": [
+                                "64GB",
+                                "128GB",
+                                "256GB"
+                            ],
+                            "sim_status": [
+                                "Dual SIM"
+                            ],
+                            "colors": [
+                                {
+                                    "name": "Rush Black",
+                                    "hex": "#1c1c1e"
+                                },
+                                {
+                                    "name": "Clash White",
+                                    "hex": "#f0f0f0"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Realme 9",
+                            "years": [
+                                "2022"
+                            ],
+                            "storages": [
+                                "128GB"
+                            ],
+                            "sim_status": [
+                                "Dual SIM"
+                            ],
+                            "colors": [
+                                {
+                                    "name": "Meteor Black",
+                                    "hex": "#1c1c1e"
+                                },
+                                {
+                                    "name": "Sunburst Gold",
+                                    "hex": "#ffd700"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Realme 8",
+                            "years": [
+                                "2021"
+                            ],
+                            "storages": [
+                                "64GB",
+                                "128GB"
+                            ],
+                            "sim_status": [
+                                "Dual SIM"
+                            ],
+                            "colors": [
+                                {
+                                    "name": "Cyber Silver",
+                                    "hex": "#c0c0c0"
+                                },
+                                {
+                                    "name": "Cyber Black",
+                                    "hex": "#1c1c1e"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Realme 7",
+                            "years": [
+                                "2020"
+                            ],
+                            "storages": [
+                                "64GB",
+                                "128GB"
+                            ],
+                            "sim_status": [
+                                "Dual SIM"
+                            ],
+                            "colors": [
+                                {
+                                    "name": "Mist White",
+                                    "hex": "#f0f0f0"
+                                },
+                                {
+                                    "name": "Mist Blue",
+                                    "hex": "#add8e6"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Google",
+            "series": [
+                {
+                    "name": "Pixel Series",
+                    "models": [
+                        {
+                            "name": "Pixel 8 Pro",
+                            "years": [
+                                "2023"
+                            ],
+                            "storages": [
+                                "128GB",
+                                "256GB",
+                                "512GB"
+                            ],
+                            "sim_status": [
+                                "eSIM",
+                                "Dual SIM"
+                            ],
+                            "colors": [
+                                {
+                                    "name": "Obsidian",
+                                    "hex": "#1c1c1e"
+                                },
+                                {
+                                    "name": "Porcelain",
+                                    "hex": "#f0f0f0"
+                                },
+                                {
+                                    "name": "Bay",
+                                    "hex": "#5dade2"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Pixel 8",
+                            "years": [
+                                "2023"
+                            ],
+                            "storages": [
+                                "128GB",
+                                "256GB"
+                            ],
+                            "sim_status": [
+                                "eSIM",
+                                "Dual SIM"
+                            ],
+                            "colors": [
+                                {
+                                    "name": "Obsidian",
+                                    "hex": "#1c1c1e"
+                                },
+                                {
+                                    "name": "Hazel",
+                                    "hex": "#b56c4d"
+                                },
+                                {
+                                    "name": "Rose",
+                                    "hex": "#e74c8c"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Pixel 7 Pro",
+                            "years": [
+                                "2022"
+                            ],
+                            "storages": [
+                                "128GB",
+                                "256GB",
+                                "512GB"
+                            ],
+                            "sim_status": [
+                                "eSIM",
+                                "Dual SIM"
+                            ],
+                            "colors": [
+                                {
+                                    "name": "Obsidian",
+                                    "hex": "#1c1c1e"
+                                },
+                                {
+                                    "name": "Snow",
+                                    "hex": "#f0f0f0"
+                                },
+                                {
+                                    "name": "Hazel",
+                                    "hex": "#b56c4d"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Pixel 7",
+                            "years": [
+                                "2022"
+                            ],
+                            "storages": [
+                                "128GB",
+                                "256GB"
+                            ],
+                            "sim_status": [
+                                "eSIM",
+                                "Dual SIM"
+                            ],
+                            "colors": [
+                                {
+                                    "name": "Obsidian",
+                                    "hex": "#1c1c1e"
+                                },
+                                {
+                                    "name": "Snow",
+                                    "hex": "#f0f0f0"
+                                },
+                                {
+                                    "name": "Lemongrass",
+                                    "hex": "#c1e194"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Pixel 6",
+                            "years": [
+                                "2021"
+                            ],
+                            "storages": [
+                                "128GB",
+                                "256GB"
+                            ],
+                            "sim_status": [
+                                "eSIM",
+                                "Dual SIM"
+                            ],
+                            "colors": [
+                                {
+                                    "name": "Stormy Black",
+                                    "hex": "#1c1c1e"
+                                },
+                                {
+                                    "name": "Sorta Seafoam",
+                                    "hex": "#a0e0ff"
+                                },
+                                {
+                                    "name": "Kinda Coral",
+                                    "hex": "#ffb6c1"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Pixel 5",
+                            "years": [
+                                "2020"
+                            ],
+                            "storages": [
+                                "128GB"
+                            ],
+                            "sim_status": [
+                                "eSIM",
+                                "Dual SIM"
+                            ],
+                            "colors": [
+                                {
+                                    "name": "Just Black",
+                                    "hex": "#1c1c1e"
+                                },
+                                {
+                                    "name": "Sorta Sage",
+                                    "hex": "#90ee90"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Pixel 4",
+                            "years": [
+                                "2019"
+                            ],
+                            "storages": [
+                                "64GB",
+                                "128GB"
+                            ],
+                            "sim_status": [
+                                "eSIM",
+                                "Dual SIM"
+                            ],
+                            "colors": [
+                                {
+                                    "name": "Just Black",
+                                    "hex": "#1c1c1e"
+                                },
+                                {
+                                    "name": "Clearly White",
+                                    "hex": "#f0f0f0"
+                                },
+                                {
+                                    "name": "Oh So Orange",
+                                    "hex": "#ff8c7a"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Pixel 3",
+                            "years": [
+                                "2018"
+                            ],
+                            "storages": [
+                                "64GB",
+                                "128GB"
+                            ],
+                            "sim_status": [
+                                "eSIM",
+                                "Dual SIM"
+                            ],
+                            "colors": [
+                                {
+                                    "name": "Just Black",
+                                    "hex": "#1c1c1e"
+                                },
+                                {
+                                    "name": "Clearly White",
+                                    "hex": "#f0f0f0"
+                                },
+                                {
+                                    "name": "Not Pink",
+                                    "hex": "#f0c4cf"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "OnePlus",
+            "series": [
+                {
+                    "name": "OnePlus Series",
+                    "models": [
+                        {
+                            "name": "OnePlus 12",
+                            "years": [
+                                "2023"
+                            ],
+                            "storages": [
+                                "256GB",
+                                "512GB"
+                            ],
+                            "sim_status": [
+                                "Dual SIM"
+                            ],
+                            "colors": [
+                                {
+                                    "name": "Silky Black",
+                                    "hex": "#2c2c2c"
+                                },
+                                {
+                                    "name": "Flowy Emerald",
+                                    "hex": "#3498db"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "OnePlus 11",
+                            "years": [
+                                "2022"
+                            ],
+                            "storages": [
+                                "128GB",
+                                "256GB"
+                            ],
+                            "sim_status": [
+                                "Dual SIM"
+                            ],
+                            "colors": [
+                                {
+                                    "name": "Titan Black",
+                                    "hex": "#1c1c1e"
+                                },
+                                {
+                                    "name": "Eternal Green",
+                                    "hex": "#2ecc71"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "OnePlus 10",
+                            "years": [
+                                "2022"
+                            ],
+                            "storages": [
+                                "128GB",
+                                "256GB"
+                            ],
+                            "sim_status": [
+                                "Dual SIM"
+                            ],
+                            "colors": [
+                                {
+                                    "name": "Volcanic Black",
+                                    "hex": "#1c1c1e"
+                                },
+                                {
+                                    "name": "Emerald Forest",
+                                    "hex": "#27ae60"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "OnePlus 9",
+                            "years": [
+                                "2021"
+                            ],
+                            "storages": [
+                                "128GB",
+                                "256GB"
+                            ],
+                            "sim_status": [
+                                "Dual SIM"
+                            ],
+                            "colors": [
+                                {
+                                    "name": "Winter Mist",
+                                    "hex": "#e6e6fa"
+                                },
+                                {
+                                    "name": "Arctic Sky",
+                                    "hex": "#a0e0ff"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "OnePlus 8",
+                            "years": [
+                                "2020"
+                            ],
+                            "storages": [
+                                "128GB",
+                                "256GB"
+                            ],
+                            "sim_status": [
+                                "Dual SIM"
+                            ],
+                            "colors": [
+                                {
+                                    "name": "Onyx Black",
+                                    "hex": "#1c1c1e"
+                                },
+                                {
+                                    "name": "Glacial Green",
+                                    "hex": "#2ecc71"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "OnePlus Nord",
+                            "years": [
+                                "2020"
+                            ],
+                            "storages": [
+                                "64GB",
+                                "128GB",
+                                "256GB"
+                            ],
+                            "sim_status": [
+                                "Dual SIM"
+                            ],
+                            "colors": [
+                                {
+                                    "name": "Gray Onyx",
+                                    "hex": "#a3a3a3"
+                                },
+                                {
+                                    "name": "Blue Marble",
+                                    "hex": "#5dade2"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Other",
+            "series": [
+                {
+                    "name": "Other",
+                    "models": [
+                        {
+                            "name": "Other",
+                            "years": [
+                                "Other"
+                            ],
+                            "storages": [],
+                            "sim_status": [],
+                            "colors": []
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "storages": [
+        "16GB",
+        "32GB",
+        "64GB",
+        "128GB",
+        "256GB",
+        "512GB",
+        "1TB"
+    ],
+    "sim_status": [
+        "Single SIM",
+        "Dual SIM",
+        "eSIM"
+    ]
+}

@@ -1,0 +1,55 @@
+{% extends "pileh/layout.html" %}
+{% load static %}
+
+{% block title %}Profile: {{ user_profile.username }}{% endblock %}
+
+{% block body %}
+    <div class="container mt-5">
+        <h1 class="text-center">{{ user_profile.username }}'s Profile</h1>
+        <hr>
+
+        <h3 class="mt-4">{% if request.user == user_profile %}Your Products{% else %}{{ user_profile.username }}'s Products{% endif %}</h3>
+        <div class="row">
+            {% for product in products_of_the_page %}
+                <div class="col-md-6 col-lg-4 mb-4">
+                    <a href="{% url 'product_detail' product_id=product.id %}" class="card-link">
+                        <div class="card product-card h-100">
+                            <div class="card-image-container">
+                                {% if product.images.all %}
+                                    <img src="{{ product.images.first.image.url }}" class="product-card-image" alt="{{ product.title }}">
+                                {% else %}
+                                    <img src="{% static 'pileh/images/placeholder.png' %}" class="product-card-image" alt="No image available">
+                                {% endif %}
+                            </div>
+                            <div class="card-content">
+                                <h5 class="card-title mb-1">{{ product.title }}</h5>
+                                <p class="card-text text-muted mb-2"><strong>Price:</strong> <span class="price-value">{{ product.price }}</span></p>
+                                <p class="card-text mb-1"><strong>Brand:</strong> {{ product.brand }}</p>
+                                <p class="card-text mb-1"><strong>Model:</strong> {{ product.model }}</p>
+                                <p class="card-text"><strong>Storage:</strong> {{ product.storage }}</p>
+                            </div>
+                        </div>
+                    </a>
+                </div>
+            {% empty %}
+                <p class="text-center w-100">No products found for this user.</p>
+            {% endfor %}
+        </div>
+        
+        <nav aria-label="Page navigation">
+            <ul class="pagination justify-content-center">
+                {% if products_of_the_page.has_previous %}
+                    <li class="page-item">
+                        <a class="page-link" href="?page={{ products_of_the_page.previous_page_number }}">Previous</a>
+                    </li>
+                {% endif %}
+
+                {% if products_of_the_page.has_next %}
+                    <li class="page-item">
+                        <a class="page-link" href="?page={{ products_of_the_page.next_page_number }}">Next</a>
+                    </li>
+                {% endif %}
+            </ul>
+        </nav>
+    </div>
+{% endblock %}

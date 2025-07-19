@@ -1,0 +1,46 @@
+{% extends "pileh/layout.html" %}
+{% load static %}
+
+{% block title %}Messages{% endblock %}
+
+{% block body %}
+    <h1 class="text-center">Your Messages</h1>
+    <div class="container mt-4">
+        <ul class="list-group">
+            {% for chat in chats %}
+                <li class="list-group-item chat-list-item d-flex align-items-center">
+   
+                    <div class="chat-product-title-container">
+                        <a href="{% url 'chat_view' chat_id=chat.chat_id %}" class="stretched-link">{{ chat.product_title }}</a>
+                    </div>
+
+                    <div class="chat-user-info">
+                        <div class="user-icon-placeholder">
+                            <i class="fa fa-user-circle"></i>
+                        </div>
+                        <p class="mb-0 user-name-text">{{ chat.other_user.username }}</p>
+                    </div>
+
+                    <div class="last-message-details">
+                        {% if chat.last_message %}
+                            <strong>
+                                {% if chat.last_message.sender == request.user %}
+                                    You:
+                                {% else %}
+                                    {{ chat.last_message.sender.username }}:
+                                {% endif %}
+                            </strong>
+                            <span class="last-message-content">{{ chat.last_message.content }}</span>
+                            <small class="text-muted d-block">{{ chat.last_message.timestamp|date:"M d, H:i" }}</small>
+                        {% else %}
+                            <p class="text-muted">No messages yet.</p>
+                        {% endif %}
+                    </div>
+                    
+                </li>
+            {% empty %}
+                <p class="text-center w-100">You have no active chats.</p>
+            {% endfor %}
+        </ul>
+    </div>
+{% endblock %}
